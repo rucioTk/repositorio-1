@@ -1,16 +1,18 @@
-p{
+li{
     background-color: rgba(255, 68, 0, 0.685);
 }
-h1{
+h1, p.subT{
 text-align: center;
 }
-
-a{
-    text-align: right;
-}
-
 small, h2, label{
     background-color: rgba(255, 68, 0, 0.685);
     width: 450px;
+}
+h1, ul, p{
+    color: snow;
+}
 
+h2{
+    color: snow;
+    width: 500px;
 }
